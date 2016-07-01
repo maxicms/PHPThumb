@@ -1,5 +1,5 @@
 {
-    "name": "maxicms/PHPThumb",
+    "name": "maxicms/phpthumb",
     "type": "library",
     "license": "MIT",
     "description": "A library for manipulating images in PHP.",
